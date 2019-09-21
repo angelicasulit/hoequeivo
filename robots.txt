@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://weemoelahh.restorationhardware.ai/sitemap.xml
